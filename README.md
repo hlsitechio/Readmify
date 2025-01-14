@@ -1,5 +1,9 @@
 # Project Documentation
 
+## Technologies
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![mongodb](https://img.shields.io/badge/mongodb-gray.svg?style=for-the-badge) ![express](https://img.shields.io/badge/express-gray.svg?style=for-the-badge) ![java](https://img.shields.io/badge/java-gray.svg?style=for-the-badge) 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features & Functionality](#features-&-functionality)
